@@ -1,1 +1,2 @@
 # SNAKE-IN-PYTHON
+This is my most complex project so far!An old but still fun simple game,with GUI and control from user.This program uses OOP and some concepts,like inheritance.All code is mapped in an organised manner,and you have to use all the files in an IDE like Pycharm.When the program starts running.you have to control your snake via the following keys:W(UP),S(DOWN),A(LEFT),D(RIGHT).You need to eat the red dots to grow!Pay attention!Dont crash with the red walls or with your own body,otherwise you will lose!!The high score is also avaiable!
